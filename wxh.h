@@ -140,4 +140,3 @@ char zh(int a)
 	return b;
 }
 #endif
-#endif
